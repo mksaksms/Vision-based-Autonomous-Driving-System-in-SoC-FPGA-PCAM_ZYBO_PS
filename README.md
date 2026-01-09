@@ -1,5 +1,10 @@
 # PCAM_ZYBO_PS
 
+
+PCAM_ZYBO_PS is a Zynq-based embedded vision project that interfaces a Pcam camera module with the ZYBO development board, leveraging the Processing System (PS) for control and data handling. The project focuses on capturing real-time image data from the camera, configuring the imaging pipeline, and transferring frames between the programmable logic and the ARM processing system for further processing, display, or storage.
+
+This project serves as a practical reference for camera sensor integration on Zynq SoCs, demonstrating PS–PL interaction, AXI-based data movement, and embedded software control. It is suitable for applications such as computer vision prototyping, image acquisition systems, and hardware–software co-design experiments on FPGA-based platforms.
+
 Petalinux and Vivado version 19.1 
 
 
